@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gioco mastermind</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <h1>Mastermind</h1>
+
+    <div id="game-board">
+        <!-- Le righe dei tentativi verranno generate dinamicamente -->
+    </div>
+
+    <div id="color-selector">
+        <h2>Seleziona un colore:</h2>
+        <div class="color-ball red" data-color="red"></div>
+        <div class="color-ball blue" data-color="blue"></div>
+        <div class="color-ball green" data-color="green"></div>
+        <div class="color-ball yellow" data-color="yellow"></div>
+        <div class="color-ball purple" data-color="purple"></div>
+        <div class="color-ball orange" data-color="orange"></div>
+    </div>
+
+    <button id="submit-guess">Conferma Tentativo</button>
+
+    <script src="js/game.js"></script>
+</body>
+
+</html>
