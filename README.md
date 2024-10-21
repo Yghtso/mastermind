@@ -1,4 +1,4 @@
-# 🎮 Nome del Gioco
+# 🎮 Mastermind
 
 Un semplice gioco sviluppato in JavaScript che può essere giocato direttamente dal browser.
 
