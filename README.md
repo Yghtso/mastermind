@@ -43,12 +43,6 @@ Un classico gioco di logica per mettere alla prova le tue capacità di deduzione
 
 ---
 
-## 🖼 Screenshot
-
-![Mastermind Game Screenshot](link-alla-tua-immagine.jpg)
-
----
-
 ## 🛠 Installazione
 
 1. **Clona il repository**:
